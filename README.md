@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between;">
 <!--    <h1>Puneeth Kotha</h1> -->
-    <p><img src="https://komarev.com/ghpvc/?username=puneethkotha&label=Profile%20views&color=0e75b6&style=flat" alt="puneethkotha" /></p>
+    <p><img align="right" src="https://komarev.com/ghpvc/?username=puneethkotha&label=Profile%20views&color=0e75b6&style=flat" alt="puneethkotha" /></p>
 </div>
 
 <!--<h5 align="left">Fusing code and development across frontiers</h3> -->
