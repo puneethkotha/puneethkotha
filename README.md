@@ -16,11 +16,12 @@
 <p align="left">
     <a href="mailto:puneeth5127@gmail.com">
         <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/puneeth-kotha-760360215/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </p>
+
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneethkotha&show_icons=true&locale=en" alt="puneethkotha" /></p>
