@@ -1,17 +1,26 @@
 ![Black Technology LinkedIn Banner (1)](https://github.com/puneethkotha/Link-in-bio-app/assets/85823685/8d8a9e62-1f13-4cfa-935e-d3f608cb7c73)
 
 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=puneethkotha&" alt="puneethkotha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneethkotha&show_icons=true&locale=en&layout=compact" alt="puneethkotha" /></p>
 
-<!--<h5 align="left">Fusing code and development across frontiers</h3> -->
-<div style="display: flex; gap: 5px;">
-  <!--  <img align="right" alt="Coding" width="130" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif"> -->
-    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=puneethkotha&" alt="puneethkotha" /></p>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneethkotha&show_icons=true&locale=en&layout=compact" alt="puneethkotha" /></p>
-</div>
+
+
+
 <div style="display: flex; justify-content: space-between;">
 <!--    <h1>Puneeth Kotha</h1> -->
     <p><img align="right" src="https://komarev.com/ghpvc/?username=puneethkotha&label=Profile%20views&color=0e75b6&style=flat" alt="puneethkotha" /></p>
 </div>
+
+
+<p align="left">
+    <a href="mailto:puneeth5127@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/puneeth-kotha-760360215/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+</p>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneethkotha&show_icons=true&locale=en" alt="puneethkotha" /></p>
