@@ -5,7 +5,7 @@
     <p><img src="https://komarev.com/ghpvc/?username=puneethkotha&label=Profile%20views&color=0e75b6&style=flat" alt="puneethkotha" /></p>
 </div>
 
-<h5 align="left">Fusing code and development across frontiers</h3>
+<!--<h5 align="left">Fusing code and development across frontiers</h3> -->
 <div style="display: flex; gap: 5px;">
   <!--  <img align="right" alt="Coding" width="130" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif"> -->
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=puneethkotha&" alt="puneethkotha" /></p>
