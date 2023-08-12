@@ -1,7 +1,7 @@
 ![Black Technology LinkedIn Banner (1)](https://github.com/puneethkotha/Link-in-bio-app/assets/85823685/8d8a9e62-1f13-4cfa-935e-d3f608cb7c73)
 
 <div style="display: flex; justify-content: space-between;">
-    <h1>Puneeth Kotha</h1>
+<!--    <h1>Puneeth Kotha</h1> -->
     <p><img src="https://komarev.com/ghpvc/?username=puneethkotha&label=Profile%20views&color=0e75b6&style=flat" alt="puneethkotha" /></p>
 </div>
 
