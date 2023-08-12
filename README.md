@@ -1,9 +1,6 @@
 ![Black Technology LinkedIn Banner (1)](https://github.com/puneethkotha/Link-in-bio-app/assets/85823685/8d8a9e62-1f13-4cfa-935e-d3f608cb7c73)
 
-<div style="display: flex; justify-content: space-between;">
-<!--    <h1>Puneeth Kotha</h1> -->
-    <p><img align="right" src="https://komarev.com/ghpvc/?username=puneethkotha&label=Profile%20views&color=0e75b6&style=flat" alt="puneethkotha" /></p>
-</div>
+
 
 <!--<h5 align="left">Fusing code and development across frontiers</h3> -->
 <div style="display: flex; gap: 5px;">
@@ -11,7 +8,10 @@
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=puneethkotha&" alt="puneethkotha" /></p>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneethkotha&show_icons=true&locale=en&layout=compact" alt="puneethkotha" /></p>
 </div>
-
+<div style="display: flex; justify-content: space-between;">
+<!--    <h1>Puneeth Kotha</h1> -->
+    <p><img align="right" src="https://komarev.com/ghpvc/?username=puneethkotha&label=Profile%20views&color=0e75b6&style=flat" alt="puneethkotha" /></p>
+</div>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneethkotha&show_icons=true&locale=en" alt="puneethkotha" /></p>
