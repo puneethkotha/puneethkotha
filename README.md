@@ -20,7 +20,7 @@
     <a href="https://www.linkedin.com/in/puneeth-kotha-760360215/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://dribbble.com/puneeth_xlcr">
+    <a href="https://dribbble.com/puneeth_kotha">
         <img src="https://img.shields.io/badge/-Dribbble-ff69b4?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble">
     </a>
 
