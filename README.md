@@ -1,7 +1,7 @@
 ![Black Technology LinkedIn Banner (1)](https://github.com/puneethkotha/Link-in-bio-app/assets/85823685/8d8a9e62-1f13-4cfa-935e-d3f608cb7c73)
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=puneethkotha&" alt="puneethkotha" /></p>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=puneethkotha&" alt="puneethkotha" /></p> -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneethkotha&show_icons=true&locale=en&layout=compact" alt="puneethkotha" /></p>
 
 
@@ -17,15 +17,14 @@
     <a href="mailto:puneeth5127@gmail.com">
         <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/puneeth-kotha-760360215/">
+    <a href="https://www.linkedin.com/in/puneeth-kotha-760360215/" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://dribbble.com/puneeth_kotha">
         <img src="https://img.shields.io/badge/-Dribbble-ff69b4?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble">
     </a>
-
-
 </p>
+
 
 
 <!--
