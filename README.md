@@ -2,10 +2,9 @@
 
 
 <!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=puneethkotha&" alt="puneethkotha" /></p> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneethkotha&show_icons=true&locale=en&layout=compact" alt="puneethkotha" /></p>
 
-
-
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneethkotha&show_icons=true&locale=en&layout=compact" alt="puneethkotha" /></p>
+-->
 
 <div style="display: flex; justify-content: space-between;">
 <!--    <h1>Puneeth Kotha</h1> -->
@@ -20,9 +19,9 @@
     <a href="https://www.linkedin.com/in/puneeth-kotha-760360215/" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://dribbble.com/puneeth_kotha">
+ <!--   <a href="https://dribbble.com/puneeth_kotha">
         <img src="https://img.shields.io/badge/-Dribbble-ff69b4?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble">
-    </a>
+    </a>  -->
 </p>
 
 
