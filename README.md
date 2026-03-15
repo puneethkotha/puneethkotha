@@ -1,37 +1,31 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=puneeth%20kotha&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=ml%20infra%20%C2%B7%20distributed%20systems%20%C2%B7%20llm%20platforms&descAlignY=62&descSize=14&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=10&section=header)
+
+<div align="left">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFFFFF&vCenter=true&width=600&lines=%24+whoami;puneeth+kotha+%E2%80%94+ml+infra+eng+%40+nyu)](https://github.com/puneethkotha)
+
+</div>
+
+I care about the gap between a model working in a notebook and running in prod.
+
+Currently at NYU — distributed systems, ML infrastructure, LLM platforms. I build the boring-but-critical layer: inference servers, async pipelines, NL compilers, healthcare NLP.
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=520&height=70&lines=%24+./flint+run+--workflow+%22deploy+ml+model%22;%E2%9C%94+NL+%E2%86%92+DAG+compiled+%C2%B7+3+nodes+%C2%B7+142ms;%24+_)](https://github.com/puneethkotha/flint)
+**[flint](https://github.com/puneethkotha/flint)** &nbsp;·&nbsp; describe any workflow in plain english. claude turns it into a DAG and runs it — asyncio, corruption detection, smart retry. the part no one wants to build.
+
+**[orbis-ml](https://github.com/puneethkotha/Orbis-ML-Classifier)** &nbsp;·&nbsp; multilingual corporate entity classifier. xlm-roberta, 120+ countries, 98.75% precision, 1.4M+ entities async. ships to NYU Stern.
+
+**[falcon](https://github.com/puneethkotha/Falcon)** &nbsp;·&nbsp; production ML inference platform. nginx, multi-worker, idempotent endpoints, exponential backoff. built to not fall over.
+
+**[audit-ai](https://github.com/puneethkotha/Audit-AI)** &nbsp;·&nbsp; clinical note auditing. NLP pipeline for healthcare compliance. prod-ready.
 
 <br/>
 
-```
-nyu grad · distributed systems · ml infra · llm platforms
-currently: building prod-grade agentic pipelines + inference platforms
-```
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=puneethkotha&theme=react-dark&hide_border=true&area=true&area_color=0d2137&color=4a9eff&line=4a9eff&point=ffffff&bg_color=0d1117&hide_title=true)](https://github.com/puneethkotha)
 
 <br/>
 
-**what i'm shipping**
+<sub>[puneethkotha.com](https://puneethkotha.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/puneeth-kotha-760360215) &nbsp;·&nbsp; `python` `kafka` `fastapi` `pytorch` `redis` `docker` `k8s`</sub>
 
-| | project | what it does |
-|---|---|---|
-| `⚡` | [flint](https://github.com/puneethkotha/flint) | plain english → DAG pipeline · claude-powered NL compiler · asyncio · smart retry |
-| `🌍` | [orbis-ml](https://github.com/puneethkotha/Orbis-ML-Classifier) | multilingual entity classifier · xlm-roberta · 98.75% precision · 120+ countries |
-| `🏥` | [audit-ai](https://github.com/puneethkotha/Audit-AI) | clinical note auditing · NLP for healthcare compliance |
-| `🦅` | [falcon](https://github.com/puneethkotha/Falcon) | production ML inference · nginx · multi-worker · exponential backoff |
-
-<br/>
-
-`python` · `kafka` · `fastapi` · `pytorch` · `redis` · `docker` · `k8s` · `postgres`
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=puneethkotha&theme=react-dark&hide_border=true&area=true&area_color=1a3a5c&color=58a6ff&line=58a6ff&point=58a6ff&bg_color=0d1117)](https://github.com/puneethkotha)
-
-<br/>
-
-[puneethkotha.com](https://puneethkotha.com) · [linkedin](https://linkedin.com/in/puneeth-kotha-760360215)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=10&section=footer)
