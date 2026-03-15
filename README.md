@@ -1,48 +1,37 @@
-![Black Technology LinkedIn Banner (1)](https://github.com/puneethkotha/Link-in-bio-app/assets/85823685/8d8a9e62-1f13-4cfa-935e-d3f608cb7c73)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=puneeth%20kotha&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=ml%20infra%20%C2%B7%20distributed%20systems%20%C2%B7%20llm%20platforms&descAlignY=62&descSize=14&descColor=8b949e)
 
+<br/>
 
-<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=puneethkotha&" alt="puneethkotha" /></p> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=520&height=70&lines=%24+./flint+run+--workflow+%22deploy+ml+model%22;%E2%9C%94+NL+%E2%86%92+DAG+compiled+%C2%B7+3+nodes+%C2%B7+142ms;%24+_)](https://github.com/puneethkotha/flint)
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneethkotha&show_icons=true&locale=en&layout=compact" alt="puneethkotha" /></p>
--->
+<br/>
 
-<div style="display: flex; justify-content: space-between;">
-<!--    <h1>Puneeth Kotha</h1> -->
-    <p><img align="right" src="https://komarev.com/ghpvc/?username=puneethkotha&label=Profile%20views&color=0e75b6&style=flat" alt="puneethkotha" /></p>
-</div>
+```
+nyu grad · distributed systems · ml infra · llm platforms
+currently: building prod-grade agentic pipelines + inference platforms
+```
 
+<br/>
 
-<p align="left">
-    <a href="mailto:puneeth5127@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/puneeth-kotha-760360215/" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>&nbsp;&nbsp;&nbsp;
- <!--   <a href="https://dribbble.com/puneeth_kotha">
-        <img src="https://img.shields.io/badge/-Dribbble-ff69b4?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble">
-    </a>  -->
-</p>
+**what i'm shipping**
 
+| | project | what it does |
+|---|---|---|
+| `⚡` | [flint](https://github.com/puneethkotha/flint) | plain english → DAG pipeline · claude-powered NL compiler · asyncio · smart retry |
+| `🌍` | [orbis-ml](https://github.com/puneethkotha/Orbis-ML-Classifier) | multilingual entity classifier · xlm-roberta · 98.75% precision · 120+ countries |
+| `🏥` | [audit-ai](https://github.com/puneethkotha/Audit-AI) | clinical note auditing · NLP for healthcare compliance |
+| `🦅` | [falcon](https://github.com/puneethkotha/Falcon) | production ML inference · nginx · multi-worker · exponential backoff |
 
+<br/>
 
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneethkotha&show_icons=true&locale=en" alt="puneethkotha" /></p>
+`python` · `kafka` · `fastapi` · `pytorch` · `redis` · `docker` · `k8s` · `postgres`
 
+<br/>
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=puneethkotha&theme=react-dark&hide_border=true&area=true&area_color=1a3a5c&color=58a6ff&line=58a6ff&point=58a6ff&bg_color=0d1117)](https://github.com/puneethkotha)
 
+<br/>
 
-<a href="https://iconscout.com/contributors/Redmatric%20Studio" target="_blank"></a>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/puneethkotha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/puneethkotha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/puneeth-kotha-760360215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puneeth-kotha-760360215" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22377590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22377590" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/20211a05e2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20211a05e2" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/20211a05e2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="20211a05e2" height="30" width="40" /></a>
-</p>
+[puneethkotha.com](https://puneethkotha.com) · [linkedin](https://linkedin.com/in/puneeth-kotha-760360215)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-📫 **puneeth5127@gmail.com**   -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer)
