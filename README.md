@@ -2,14 +2,16 @@
 
 I work on getting models to actually run in production
 
+mostly working on async pipelines, inference servers, and messy real-world data
+
 `ml infra` `distributed systems` `llm systems`
 
 &nbsp;
 
 flint - NL to DAG compiler for ML pipelines  
-orbis-ml - entity classification across 120+ countries  
-falcon - inference server with FastAPI and nginx  
-audit-ai - finds compliance issues in clinical text   
+orbis-ml - xlm-roberta classifier with multi-stage pipeline across 120+ countries  
+falcon - inference server with FastAPI, nginx, multi-worker setup  
+audit-ai - finds compliance issues in clinical text 
 
 &nbsp;
 
