@@ -8,8 +8,8 @@ I work on getting models to actually run in production
 
 flint - NL to DAG compiler for ML pipelines  
 orbis-ml - entity classification across 120+ countries  
-falcon - inference server using FastAPI and nginx  
-audit-ai - extracts and flags compliance issues from clinical text  
+falcon - inference server with FastAPI and nginx  
+audit-ai - finds compliance issues in clinical text   
 
 &nbsp;
 
